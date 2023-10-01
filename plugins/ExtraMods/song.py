@@ -66,7 +66,7 @@ def song(client, message):
             info_dict = ydl.extract_info(link, download=False)
             audio_file = ydl.prepare_filename(info_dict)
             ydl.process_info(info_dict)
-        rep = '**JOIN ›› [🍁 ᴄʜᴀɴɴᴇʟ 🍁](https://t.me/MLZ_BOTZ)**\n**𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ›› [muѕíc вσч](https://t.me/CcommusicBot)**\n@MLZ_BOTZ**'
+        rep = '**JOIN ›› [🎬 𝗣𝗟𝗔𝗡𝗘𝗧 𝗠𝗢𝗩𝗜𝗘𝗦🍿](https://t.me/planet_movies_grp)**\n**𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ›› [ɴᴀᴍɪ ᴜᴘᴅᴀᴛᴇs](https://t.me/series_planet_nami_updates)**\n@LiZarD_amc**'
         secmul, dur, dur_arr = 1, 0, duration.split(':')
         for i in range(len(dur_arr)-1, -1, -1):
             dur += (int(dur_arr[i]) * secmul)
@@ -140,7 +140,7 @@ async def vsong(client, message: Message):
     capy = f"""
 **𝚃𝙸𝚃𝙻𝙴 :** [{thum}]({mo})
 **𝚁𝙴𝚀𝚄𝙴𝚂𝚃𝙴𝙳 𝙱𝚈 :** {message.from_user.mention}
-**@ᴄᴄᴏᴍ_ᴛᴇᴀᴍ**
+**@planet_movies_grp**
 """
     await client.send_video(
         message.chat.id,
