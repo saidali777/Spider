@@ -13,7 +13,7 @@ class script(object):
     ABOUT_TXT = """<b>╔══════════════════❍
 ║╭━━━━━━━━━━━━━━━➣ 
 ║➠ 𝙼𝚈 𝙽𝙰𝙼𝙴 - {}
-║➠ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 - <a herf=https://t.me/LiZarD_amc>𝗟𝗶𝗭𝗮𝗿𝗗</a>
+║➠ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 - <a herf=https://t.me/LiZarD_amc>アニル___🗯️</a>
 ║➠ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 - 𝙿𝚈𝚃𝙷𝙾𝙽 3
 ║➠ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 - 𝙿𝚁𝙾𝙶𝚁𝙰𝙼
 ║➠ 𝙼𝚈 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -23,9 +23,9 @@ class script(object):
 ╚══════════════════❍</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/series_planet_nami_updates>ɴᴀᴍɪ-𝐁𝐎𝐓</a>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/planet_spiderman>𝑺𝑷𝑰𝑫𝑬𝑹-𝑴𝑨𝑵</a>
 
-<b>ᴅᴇᴠ: <a herf=https://t.me/series_planet_nami_updates>𝗟𝗶𝗭𝗮𝗿𝗗</a></b>"""
+<b>ᴅᴇᴠ: <a herf=https://t.me/LiZarD_amc>アニル___🗯️</a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
