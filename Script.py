@@ -23,7 +23,7 @@ class script(object):
 ╚══════════════════❍</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/planet_spiderman>𝑺𝑷𝑰𝑫𝑬𝑹-𝑴𝑨𝑵</a>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/movie_world_grp>𝑺𝑷𝑰𝑫𝑬𝑹-𝑴𝑨𝑵</a>
 
 <b>ᴅᴇᴠ: <a herf=https://t.me/LiZarD_amc>アニル___🗯️</a></b>"""
 
@@ -36,7 +36,7 @@ class script(object):
 ➪ /batch › Tᴏ Cʀᴇᴀᴛᴇ Lɪɴᴋ Fᴏʀ Mᴜʟᴛɪᴘʟᴇ Mᴇᴅɪᴀ
 
 <b>⪼ EG:</b>
-</code>/batch https://t.me/planet_movies_grp https://t.me/planet_movies_grp</code>"""
+</code>/batch https://t.me/movie_world_grp https://t.me/movie_world_grp</code>"""
   
     FILTER_TXT = "Sᴇʟᴇᴄᴛ Wʜɪᴄʜ Oɴᴇ Yᴏᴜ Wᴀɴᴛ...✨"
     
